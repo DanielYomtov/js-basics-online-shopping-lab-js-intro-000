@@ -17,7 +17,7 @@ function setCart(c) {
 
 
 function addToCart(item) {
- item = {
+ newObj = {
    itemName: "",
    itemPrice: ""
  }// write your code here
