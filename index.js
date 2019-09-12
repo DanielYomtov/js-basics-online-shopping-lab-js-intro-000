@@ -20,7 +20,8 @@ function addToCart(item) {
  newObj = {
    itemName: "",
    itemPrice: ""
- }// write your code here
+ }
+ cart.push(newObj);
 }
 
 
